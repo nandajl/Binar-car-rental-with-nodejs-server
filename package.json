@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project HTTP Server dan DOM",
   "main": "server/index.js",
-  "author": "Fikri Rahmat Nurhidayat <fnurhidayat@binar.co.id>",
+  "author": "Nanda J Lubis <nandajelubis@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
